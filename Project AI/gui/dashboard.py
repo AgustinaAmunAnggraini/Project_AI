@@ -1408,7 +1408,7 @@ class Dashboard:
         )
 
         messagebox.showerror(
-            "Pencarian Rute Gagal",
+            "PENCARIAN RUTE GAGAL",
             "Sistem belum berhasil menemukan rute.\n\n"
             f"Keterangan: {error}\n\n"
             "Periksa koneksi internet atau coba lokasi lain."
